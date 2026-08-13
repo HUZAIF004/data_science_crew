@@ -39,15 +39,15 @@ The generated **Sales Performance Dashboard** features a cohesive dark theme (`#
 
 | Preview | Description |
 |:---:|:---|
-| ![Global Controls & KPI Cards](Screenshots/screenshot_01.png) | **Global Controls & Top KPI Cards**: Dynamic filter inputs (Region, Category, Customer Segment, Start/End Month Sliders) and KPI metric cards (Net Revenue, Total Orders, AOV, Profit Margin). |
-| ![Executive Overview](Screenshots/screenshot_02.png) | **Executive Overview Tab**: Monthly Net Revenue Trend line chart (2024) and Revenue Distribution by Category donut chart. |
-| ![Segment Analytics](Screenshots/screenshot_03.png) | **Customer Segment Analytics**: Orders by Customer Segment bar chart and AOV by Customer Segment breakdown. |
-| ![Regional Revenue](Screenshots/screenshot_04.png) | **Regional Revenue Breakdown**: Net Revenue by Region bar chart and Regional Revenue Share donut chart. |
-| ![Regional Heatmap](Screenshots/screenshot_05.png) | **Regional AOV & Heatmap**: AOV by Region bar chart and Region × Category Revenue Heatmap matrix ($). |
-| ![Product Performance](Screenshots/screenshot_06.png) | **Product Performance Tab**: Top Products by Net Revenue horizontal ranking and Product Breakdown by Category stacked bar with interactive tooltip hover. |
-| ![Units Sold](Screenshots/screenshot_07.png) | **Product Volume Analytics**: Total Units Sold per Product across all 16 items. |
-| ![Summary Statistics](Screenshots/screenshot_08.png) | **Summary Data Tab**: Aggregated Summary Statistics Dataframe Table grouped by category and month. |
-| ![Cleaned Data Preview](Screenshots/screenshot_09.png) | **Cleaned Data Table**: Complete 200-order enriched dataset preview table with order IDs, dates, segments, and computed fields. |
+| <img src="./Screenshots/screenshot_01.png" width="350" alt="Global Controls & KPI Cards"> | **Global Controls & Top KPI Cards**: Dynamic filter inputs (Region, Category, Customer Segment, Start/End Month Sliders) and KPI metric cards (Net Revenue, Total Orders, AOV, Profit Margin). |
+| <img src="./Screenshots/screenshot_02.png" width="350" alt="Executive Overview"> | **Executive Overview Tab**: Monthly Net Revenue Trend line chart (2024) and Revenue Distribution by Category donut chart. |
+| <img src="./Screenshots/screenshot_03.png" width="350" alt="Customer Segment Analytics"> | **Customer Segment Analytics**: Orders by Customer Segment bar chart and AOV by Customer Segment breakdown. |
+| <img src="./Screenshots/screenshot_04.png" width="350" alt="Regional Revenue Breakdown"> | **Regional Revenue Breakdown**: Net Revenue by Region bar chart and Regional Revenue Share donut chart. |
+| <img src="./Screenshots/screenshot_05.png" width="350" alt="Regional AOV & Heatmap"> | **Regional AOV & Heatmap**: AOV by Region bar chart and Region × Category Revenue Heatmap matrix ($). |
+| <img src="./Screenshots/screenshot_06.png" width="350" alt="Product Performance"> | **Product Performance Tab**: Top Products by Net Revenue horizontal ranking and Product Breakdown by Category stacked bar with interactive tooltip hover. |
+| <img src="./Screenshots/screenshot_07.png" width="350" alt="Product Volume Analytics"> | **Product Volume Analytics**: Total Units Sold per Product across all 16 items. |
+| <img src="./Screenshots/screenshot_08.png" width="350" alt="Summary Statistics"> | **Summary Data Tab**: Aggregated Summary Statistics Dataframe Table grouped by category and month. |
+| <img src="./Screenshots/screenshot_09.png" width="350" alt="Cleaned Data Preview"> | **Cleaned Data Table**: Complete 200-order enriched dataset preview table with order IDs, dates, segments, and computed fields. |
 
 ---
 
