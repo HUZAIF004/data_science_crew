@@ -1,0 +1,201 @@
+order_id,order_date,year,month,month_name,customer_segment,region,category,product_name,quantity,unit_price,discount_pct,shipping_cost,payment_method,gross_revenue,discount_amount,net_revenue,net_profit,profit_margin_pct
+ORD-1045,2024-01-01,2024,1,Jan,Small Business,South,Electronics,USB-C Multi-port Docking Station,2,59.99,0.2,22.16,Bank Transfer,119.98,24.0,95.98,73.82,76.91
+ORD-1037,2024-01-05,2024,1,Jan,Corporate,South,Apparel,Waterproof Backpack 25L,1,64.99,0.05,18.63,Crypto,64.99,3.25,61.74,43.11,69.83
+ORD-1173,2024-01-10,2024,1,Jan,Small Business,West,Electronics,Wireless Ergonomic Mouse,1,29.99,0.05,18.71,Credit Card,29.99,1.5,28.49,9.78,34.33
+ORD-1170,2024-01-14,2024,1,Jan,Consumer,West,Apparel,Breathable Running Shoes,2,79.99,0.15,17.54,Credit Card,159.98,24.0,135.98,118.44,87.1
+ORD-1171,2024-01-15,2024,1,Jan,Small Business,East,Office Supplies,Gel Ink Pens 12-pack,1,9.99,0.0,25.97,PayPal,9.99,0.0,9.99,-15.98,-159.96
+ORD-1130,2024-01-16,2024,1,Jan,Corporate,North,Apparel,Waterproof Backpack 25L,1,64.99,0.15,26.17,Crypto,64.99,9.75,55.24,29.07,52.63
+ORD-1187,2024-01-16,2024,1,Jan,Corporate,North,Office Supplies,Gel Ink Pens 12-pack,1,9.99,0.2,21.94,PayPal,9.99,2.0,7.99,-13.95,-174.52
+ORD-1105,2024-01-19,2024,1,Jan,Corporate,South,Apparel,Waterproof Backpack 25L,2,64.99,0.05,20.77,Credit Card,129.98,6.5,123.48,102.71,83.18
+ORD-1120,2024-01-20,2024,1,Jan,Consumer,South,Furniture,Ergonomic Mesh Office Chair,1,249.99,0.15,7.89,Crypto,249.99,37.5,212.49,204.6,96.29
+ORD-1089,2024-01-21,2024,1,Jan,Consumer,North,Electronics,Noise-Canceling Headphones,4,199.99,0.1,20.08,PayPal,799.96,80.0,719.96,699.88,97.21
+ORD-1147,2024-01-22,2024,1,Jan,Corporate,West,Apparel,Waterproof Backpack 25L,2,64.99,0.15,28.02,Crypto,129.98,19.5,110.48,82.46,74.64
+ORD-1005,2024-01-23,2024,1,Jan,Corporate,North,Office Supplies,Heavy Duty Desktop Stapler,3,12.49,0.2,8.11,Bank Transfer,37.47,7.49,29.98,21.87,72.95
+ORD-1036,2024-01-23,2024,1,Jan,Corporate,South,Apparel,Breathable Running Shoes,1,79.99,0.05,20.92,Crypto,79.99,4.0,75.99,55.07,72.47
+ORD-1179,2024-01-23,2024,1,Jan,Consumer,West,Office Supplies,Gel Ink Pens 12-pack,1,9.99,0.1,25.33,Crypto,9.99,1.0,8.99,-16.34,-181.73
+ORD-1128,2024-01-27,2024,1,Jan,Small Business,North,Furniture,LED Monitor Desk Lamp,1,34.99,0.15,18.14,Crypto,34.99,5.25,29.74,11.6,39.01
+ORD-1107,2024-01-29,2024,1,Jan,Consumer,West,Electronics,UltraWide 34-inch Monitor,1,449.99,0.1,15.76,PayPal,449.99,45.0,404.99,389.23,96.11
+ORD-1180,2024-02-02,2024,2,Feb,Consumer,North,Furniture,Electric Height Adjustable Desk,3,399.99,0.15,5.91,PayPal,1199.97,180.0,1019.97,1014.06,99.42
+ORD-1029,2024-02-04,2024,2,Feb,Small Business,South,Electronics,Noise-Canceling Headphones,3,199.99,0.05,15.08,Credit Card,599.97,30.0,569.97,554.89,97.35
+ORD-1153,2024-02-04,2024,2,Feb,Small Business,North,Furniture,Under-desk Cable Tray,2,19.99,0.1,24.9,Bank Transfer,39.98,4.0,35.98,11.08,30.8
+ORD-1140,2024-02-05,2024,2,Feb,Small Business,South,Furniture,Under-desk Cable Tray,1,19.99,0.0,7.28,Crypto,19.99,0.0,19.99,12.71,63.58
+ORD-1196,2024-02-07,2024,2,Feb,Corporate,West,Apparel,Waterproof Backpack 25L,1,64.99,0.1,21.05,Bank Transfer,64.99,6.5,58.49,37.44,64.01
+ORD-1056,2024-02-09,2024,2,Feb,Corporate,North,Office Supplies,Dry Erase Whiteboard 36x24,3,49.99,0.05,11.78,PayPal,149.97,7.5,142.47,130.69,91.73
+ORD-1163,2024-02-09,2024,2,Feb,Small Business,North,Furniture,Electric Height Adjustable Desk,1,399.99,0.0,17.68,Bank Transfer,399.99,0.0,399.99,382.31,95.58
+ORD-1108,2024-02-10,2024,2,Feb,Consumer,West,Furniture,Electric Height Adjustable Desk,2,399.99,0.15,20.48,PayPal,799.98,120.0,679.98,659.5,96.99
+ORD-1131,2024-02-11,2024,2,Feb,Corporate,East,Apparel,Tech Fleece Hoodie,1,54.99,0.05,6.63,Crypto,54.99,2.75,52.24,45.61,87.31
+ORD-1002,2024-02-17,2024,2,Feb,Small Business,South,Electronics,Wireless Ergonomic Mouse,1,29.99,0.2,20.04,Crypto,29.99,6.0,23.99,3.95,16.47
+ORD-1050,2024-02-17,2024,2,Feb,Consumer,South,Office Supplies,Heavy Duty Desktop Stapler,4,12.49,0.05,21.81,PayPal,49.96,2.5,47.46,25.65,54.05
+ORD-1075,2024-02-17,2024,2,Feb,Corporate,East,Apparel,Tech Fleece Hoodie,1,54.99,0.15,22.28,Crypto,54.99,8.25,46.74,24.46,52.33
+ORD-1137,2024-02-23,2024,2,Feb,Corporate,South,Office Supplies,Heavy Duty Desktop Stapler,2,12.49,0.05,8.86,Credit Card,24.98,1.25,23.73,14.87,62.66
+ORD-1149,2024-02-24,2024,2,Feb,Consumer,West,Electronics,USB-C Multi-port Docking Station,1,59.99,0.2,15.0,Bank Transfer,59.99,12.0,47.99,32.99,68.74
+ORD-1016,2024-02-27,2024,2,Feb,Consumer,North,Apparel,Tech Fleece Hoodie,5,54.99,0.1,10.98,Credit Card,274.95,27.5,247.46,236.48,95.56
+ORD-1138,2024-02-28,2024,2,Feb,Corporate,North,Office Supplies,Heavy Duty Desktop Stapler,3,12.49,0.2,10.64,Bank Transfer,37.47,7.49,29.98,19.34,64.5
+ORD-1148,2024-02-28,2024,2,Feb,Small Business,West,Apparel,Breathable Running Shoes,2,79.99,0.1,9.29,Bank Transfer,159.98,16.0,143.98,134.69,93.55
+ORD-1190,2024-02-28,2024,2,Feb,Corporate,North,Office Supplies,Gel Ink Pens 12-pack,1,9.99,0.05,17.47,Bank Transfer,9.99,0.5,9.49,-7.98,-84.08
+ORD-1043,2024-02-29,2024,2,Feb,Corporate,North,Office Supplies,Premium Leather Notebook,4,14.99,0.1,9.45,Credit Card,59.96,6.0,53.96,44.51,82.49
+ORD-1077,2024-03-02,2024,3,Mar,Small Business,West,Furniture,LED Monitor Desk Lamp,3,34.99,0.05,9.78,Bank Transfer,104.97,5.25,99.72,89.94,90.19
+ORD-1065,2024-03-05,2024,3,Mar,Consumer,West,Furniture,Electric Height Adjustable Desk,2,399.99,0.0,19.09,Bank Transfer,799.98,0.0,799.98,780.89,97.61
+ORD-1125,2024-03-05,2024,3,Mar,Small Business,South,Office Supplies,Gel Ink Pens 12-pack,3,9.99,0.05,6.71,PayPal,29.97,1.5,28.47,21.76,76.43
+ORD-1146,2024-03-07,2024,3,Mar,Small Business,East,Apparel,Tech Fleece Hoodie,1,54.99,0.05,17.5,Credit Card,54.99,2.75,52.24,34.74,66.5
+ORD-1195,2024-03-07,2024,3,Mar,Corporate,West,Apparel,Waterproof Backpack 25L,2,64.99,0.0,6.63,Crypto,129.98,0.0,129.98,123.35,94.9
+ORD-1197,2024-03-07,2024,3,Mar,Small Business,South,Furniture,Electric Height Adjustable Desk,2,399.99,0.0,25.77,Bank Transfer,799.98,0.0,799.98,774.21,96.78
+ORD-1098,2024-03-15,2024,3,Mar,Consumer,North,Apparel,Waterproof Backpack 25L,1,64.99,0.2,17.7,Bank Transfer,64.99,13.0,51.99,34.29,65.96
+ORD-1126,2024-03-16,2024,3,Mar,Consumer,South,Furniture,LED Monitor Desk Lamp,3,34.99,0.2,5.06,Bank Transfer,104.97,20.99,83.98,78.92,93.97
+ORD-1156,2024-03-18,2024,3,Mar,Corporate,North,Apparel,Waterproof Backpack 25L,8,64.99,0.15,7.58,PayPal,519.92,77.99,441.93,434.35,98.28
+ORD-1164,2024-03-19,2024,3,Mar,Consumer,West,Furniture,Under-desk Cable Tray,1,19.99,0.2,25.22,Credit Card,19.99,4.0,15.99,-9.23,-57.7
+ORD-1033,2024-03-21,2024,3,Mar,Small Business,North,Office Supplies,Heavy Duty Desktop Stapler,2,12.49,0.2,22.58,Bank Transfer,24.98,5.0,19.98,-2.6,-12.99
+ORD-1183,2024-04-05,2024,4,Apr,Small Business,East,Apparel,Breathable Running Shoes,2,79.99,0.15,14.17,Credit Card,159.98,24.0,135.98,121.81,89.58
+ORD-1022,2024-04-07,2024,4,Apr,Corporate,West,Apparel,Breathable Running Shoes,1,79.99,0.15,13.85,Credit Card,79.99,12.0,67.99,54.14,79.63
+ORD-1124,2024-04-07,2024,4,Apr,Consumer,North,Apparel,Breathable Running Shoes,8,79.99,0.15,7.28,Credit Card,639.92,95.99,543.93,536.65,98.66
+ORD-1078,2024-04-09,2024,4,Apr,Consumer,South,Office Supplies,Premium Leather Notebook,1,14.99,0.1,9.48,Bank Transfer,14.99,1.5,13.49,4.01,29.73
+ORD-1194,2024-04-12,2024,4,Apr,Consumer,East,Furniture,Ergonomic Mesh Office Chair,3,249.99,0.05,24.75,Bank Transfer,749.97,37.5,712.47,687.72,96.53
+ORD-1035,2024-04-14,2024,4,Apr,Corporate,North,Furniture,LED Monitor Desk Lamp,3,34.99,0.1,17.63,Credit Card,104.97,10.5,94.47,76.84,81.34
+ORD-1058,2024-04-15,2024,4,Apr,Small Business,North,Apparel,Tech Fleece Hoodie,4,54.99,0.15,27.61,Crypto,219.96,32.99,186.97,159.36,85.23
+ORD-1145,2024-04-18,2024,4,Apr,Consumer,North,Furniture,LED Monitor Desk Lamp,3,34.99,0.1,12.23,Crypto,104.97,10.5,94.47,82.24,87.05
+ORD-1191,2024-04-19,2024,4,Apr,Corporate,South,Office Supplies,Dry Erase Whiteboard 36x24,10,49.99,0.1,22.34,Credit Card,499.9,49.99,449.91,427.57,95.03
+ORD-1004,2024-04-20,2024,4,Apr,Corporate,North,Office Supplies,Gel Ink Pens 12-pack,8,9.99,0.1,7.55,Bank Transfer,79.92,7.99,71.93,64.38,89.5
+ORD-1027,2024-04-21,2024,4,Apr,Consumer,East,Furniture,LED Monitor Desk Lamp,8,34.99,0.2,23.38,Credit Card,279.92,55.98,223.94,200.56,89.56
+ORD-1041,2024-04-23,2024,4,Apr,Consumer,South,Electronics,USB-C Multi-port Docking Station,1,59.99,0.15,13.73,Credit Card,59.99,9.0,50.99,37.26,73.07
+ORD-1064,2024-04-24,2024,4,Apr,Consumer,South,Electronics,UltraWide 34-inch Monitor,3,449.99,0.0,23.85,Credit Card,1349.97,0.0,1349.97,1326.12,98.23
+ORD-1087,2024-04-25,2024,4,Apr,Consumer,North,Electronics,Noise-Canceling Headphones,2,199.99,0.1,25.66,PayPal,399.98,40.0,359.98,334.32,92.87
+ORD-1009,2024-04-27,2024,4,Apr,Consumer,South,Office Supplies,Premium Leather Notebook,4,14.99,0.1,15.02,Bank Transfer,59.96,6.0,53.96,38.94,72.17
+ORD-1151,2024-04-30,2024,4,Apr,Small Business,South,Office Supplies,Gel Ink Pens 12-pack,1,9.99,0.1,9.92,Credit Card,9.99,1.0,8.99,-0.93,-10.33
+ORD-1025,2024-05-01,2024,5,May,Corporate,North,Electronics,Wireless Ergonomic Mouse,1,29.99,0.15,17.02,PayPal,29.99,4.5,25.49,8.47,33.23
+ORD-1074,2024-05-03,2024,5,May,Consumer,West,Furniture,Ergonomic Mesh Office Chair,3,249.99,0.15,18.87,Crypto,749.97,112.5,637.47,618.6,97.04
+ORD-1051,2024-05-05,2024,5,May,Consumer,West,Electronics,Wireless Ergonomic Mouse,10,29.99,0.2,26.23,Crypto,299.9,59.98,239.92,213.69,89.07
+ORD-1019,2024-05-06,2024,5,May,Small Business,South,Apparel,Tech Fleece Hoodie,1,54.99,0.1,5.52,PayPal,54.99,5.5,49.49,43.97,88.85
+ORD-1093,2024-05-09,2024,5,May,Consumer,West,Electronics,UltraWide 34-inch Monitor,1,449.99,0.15,26.61,Crypto,449.99,67.5,382.49,355.88,93.04
+ORD-1178,2024-05-09,2024,5,May,Corporate,South,Apparel,Breathable Running Shoes,3,79.99,0.1,24.7,Credit Card,239.97,24.0,215.97,191.27,88.56
+ORD-1034,2024-05-15,2024,5,May,Consumer,East,Electronics,Mechanical RGB Keyboard,1,89.99,0.0,23.55,Bank Transfer,89.99,0.0,89.99,66.44,73.83
+ORD-1084,2024-05-15,2024,5,May,Small Business,North,Furniture,Electric Height Adjustable Desk,3,399.99,0.05,10.99,PayPal,1199.97,60.0,1139.97,1128.98,99.04
+ORD-1139,2024-05-19,2024,5,May,Corporate,North,Electronics,Mechanical RGB Keyboard,3,89.99,0.1,28.03,PayPal,269.97,27.0,242.97,214.94,88.46
+ORD-1143,2024-05-19,2024,5,May,Corporate,North,Apparel,Breathable Running Shoes,1,79.99,0.2,7.84,Bank Transfer,79.99,16.0,63.99,56.15,87.75
+ORD-1169,2024-05-19,2024,5,May,Corporate,North,Electronics,Mechanical RGB Keyboard,2,89.99,0.2,8.67,PayPal,179.98,36.0,143.98,135.31,93.98
+ORD-1001,2024-05-20,2024,5,May,Small Business,North,Electronics,Wireless Ergonomic Mouse,1,29.99,0.05,23.4,Crypto,29.99,1.5,28.49,5.09,17.87
+ORD-1024,2024-05-22,2024,5,May,Small Business,North,Apparel,Tech Fleece Hoodie,2,54.99,0.0,16.07,Credit Card,109.98,0.0,109.98,93.91,85.39
+ORD-1063,2024-05-22,2024,5,May,Consumer,West,Office Supplies,Dry Erase Whiteboard 36x24,3,49.99,0.15,11.3,Credit Card,149.97,22.5,127.47,116.17,91.14
+ORD-1172,2024-05-26,2024,5,May,Consumer,West,Furniture,Ergonomic Mesh Office Chair,5,249.99,0.15,22.39,Crypto,1249.95,187.49,1062.46,1040.07,97.89
+ORD-1097,2024-05-29,2024,5,May,Corporate,West,Furniture,Under-desk Cable Tray,2,19.99,0.1,15.38,PayPal,39.98,4.0,35.98,20.6,57.26
+ORD-1116,2024-05-31,2024,5,May,Corporate,North,Office Supplies,Dry Erase Whiteboard 36x24,3,49.99,0.1,25.1,PayPal,149.97,15.0,134.97,109.87,81.4
+ORD-1083,2024-06-01,2024,6,Jun,Small Business,North,Apparel,Breathable Running Shoes,4,79.99,0.15,12.62,Credit Card,319.96,47.99,271.97,259.35,95.36
+ORD-1174,2024-06-03,2024,6,Jun,Small Business,West,Office Supplies,Gel Ink Pens 12-pack,1,9.99,0.05,15.49,Credit Card,9.99,0.5,9.49,-6.0,-63.22
+ORD-1185,2024-06-05,2024,6,Jun,Corporate,East,Office Supplies,Heavy Duty Desktop Stapler,2,12.49,0.15,9.16,Crypto,24.98,3.75,21.23,12.07,56.86
+ORD-1038,2024-06-06,2024,6,Jun,Consumer,South,Furniture,Ergonomic Mesh Office Chair,1,249.99,0.0,27.46,Credit Card,249.99,0.0,249.99,222.53,89.02
+ORD-1114,2024-06-07,2024,6,Jun,Small Business,South,Electronics,Wireless Ergonomic Mouse,3,29.99,0.0,19.48,Credit Card,89.97,0.0,89.97,70.49,78.35
+ORD-1181,2024-06-07,2024,6,Jun,Consumer,South,Electronics,UltraWide 34-inch Monitor,2,449.99,0.2,16.82,Bank Transfer,899.98,180.0,719.98,703.16,97.66
+ORD-1044,2024-06-09,2024,6,Jun,Small Business,South,Apparel,Breathable Running Shoes,2,79.99,0.2,7.88,Bank Transfer,159.98,32.0,127.98,120.1,93.84
+ORD-1198,2024-06-14,2024,6,Jun,Small Business,East,Furniture,Electric Height Adjustable Desk,5,399.99,0.05,13.64,Credit Card,1999.95,100.0,1899.95,1886.31,99.28
+ORD-1042,2024-06-17,2024,6,Jun,Corporate,East,Furniture,Under-desk Cable Tray,1,19.99,0.0,29.16,Crypto,19.99,0.0,19.99,-9.17,-45.87
+ORD-1092,2024-06-17,2024,6,Jun,Corporate,North,Electronics,Mechanical RGB Keyboard,2,89.99,0.15,12.2,Crypto,179.98,27.0,152.98,140.78,92.03
+ORD-1150,2024-06-19,2024,6,Jun,Consumer,South,Office Supplies,Gel Ink Pens 12-pack,3,9.99,0.0,17.75,Bank Transfer,29.97,0.0,29.97,12.22,40.77
+ORD-1104,2024-06-22,2024,6,Jun,Corporate,West,Apparel,Breathable Running Shoes,2,79.99,0.15,21.24,Bank Transfer,159.98,24.0,135.98,114.74,84.38
+ORD-1141,2024-06-23,2024,6,Jun,Small Business,North,Apparel,Breathable Running Shoes,1,79.99,0.1,23.03,Credit Card,79.99,8.0,71.99,48.96,68.01
+ORD-1110,2024-06-25,2024,6,Jun,Corporate,East,Electronics,USB-C Multi-port Docking Station,10,59.99,0.1,20.96,Crypto,599.9,59.99,539.91,518.95,96.12
+ORD-1059,2024-06-29,2024,6,Jun,Corporate,South,Apparel,Tech Fleece Hoodie,1,54.99,0.15,26.33,Crypto,54.99,8.25,46.74,20.41,43.67
+ORD-1073,2024-06-30,2024,6,Jun,Small Business,East,Apparel,Tech Fleece Hoodie,3,54.99,0.1,11.98,Credit Card,164.97,16.5,148.47,136.49,91.93
+ORD-1136,2024-06-30,2024,6,Jun,Small Business,North,Electronics,USB-C Multi-port Docking Station,4,59.99,0.15,26.69,Bank Transfer,239.96,35.99,203.97,177.28,86.91
+ORD-1123,2024-07-04,2024,7,Jul,Small Business,East,Apparel,Tech Fleece Hoodie,1,54.99,0.1,18.6,Credit Card,54.99,5.5,49.49,30.89,62.42
+ORD-1162,2024-07-04,2024,7,Jul,Corporate,South,Office Supplies,Premium Leather Notebook,1,14.99,0.05,13.53,PayPal,14.99,0.75,14.24,0.71,4.99
+ORD-1069,2024-07-08,2024,7,Jul,Corporate,West,Apparel,Waterproof Backpack 25L,1,64.99,0.1,5.31,Credit Card,64.99,6.5,58.49,53.18,90.92
+ORD-1168,2024-07-09,2024,7,Jul,Small Business,North,Electronics,USB-C Multi-port Docking Station,2,59.99,0.0,22.78,Bank Transfer,119.98,0.0,119.98,97.2,81.01
+ORD-1015,2024-07-10,2024,7,Jul,Small Business,North,Furniture,Electric Height Adjustable Desk,3,399.99,0.2,28.83,Bank Transfer,1199.97,239.99,959.98,931.15,97.0
+ORD-1057,2024-07-15,2024,7,Jul,Corporate,East,Furniture,Electric Height Adjustable Desk,3,399.99,0.05,6.6,Crypto,1199.97,60.0,1139.97,1133.37,99.42
+ORD-1111,2024-07-15,2024,7,Jul,Small Business,East,Office Supplies,Gel Ink Pens 12-pack,4,9.99,0.0,10.92,Bank Transfer,39.96,0.0,39.96,29.04,72.67
+ORD-1158,2024-07-17,2024,7,Jul,Consumer,East,Office Supplies,Heavy Duty Desktop Stapler,2,12.49,0.1,21.96,Credit Card,24.98,2.5,22.48,0.52,2.32
+ORD-1026,2024-07-18,2024,7,Jul,Small Business,West,Apparel,Tech Fleece Hoodie,1,54.99,0.15,12.12,PayPal,54.99,8.25,46.74,34.62,74.07
+ORD-1010,2024-07-21,2024,7,Jul,Consumer,South,Furniture,Under-desk Cable Tray,4,19.99,0.15,8.56,Bank Transfer,79.96,11.99,67.97,59.41,87.41
+ORD-1031,2024-07-21,2024,7,Jul,Consumer,North,Furniture,LED Monitor Desk Lamp,1,34.99,0.1,16.42,Crypto,34.99,3.5,31.49,15.07,47.86
+ORD-1011,2024-07-23,2024,7,Jul,Consumer,North,Apparel,Waterproof Backpack 25L,1,64.99,0.05,17.73,Credit Card,64.99,3.25,61.74,44.01,71.28
+ORD-1023,2024-07-25,2024,7,Jul,Consumer,West,Electronics,Wireless Ergonomic Mouse,3,29.99,0.0,11.21,PayPal,89.97,0.0,89.97,78.76,87.54
+ORD-1047,2024-07-25,2024,7,Jul,Corporate,West,Apparel,Breathable Running Shoes,3,79.99,0.2,8.17,PayPal,239.97,47.99,191.98,183.81,95.74
+ORD-1040,2024-07-29,2024,7,Jul,Small Business,North,Furniture,LED Monitor Desk Lamp,4,34.99,0.05,11.66,Crypto,139.96,7.0,132.96,121.3,91.23
+ORD-1133,2024-07-30,2024,7,Jul,Small Business,North,Apparel,Tech Fleece Hoodie,1,54.99,0.15,14.96,Bank Transfer,54.99,8.25,46.74,31.78,67.99
+ORD-1115,2024-07-31,2024,7,Jul,Corporate,East,Office Supplies,Heavy Duty Desktop Stapler,1,12.49,0.05,24.65,PayPal,12.49,0.62,11.87,-12.78,-107.75
+ORD-1184,2024-08-08,2024,8,Aug,Corporate,North,Apparel,Tech Fleece Hoodie,2,54.99,0.05,18.63,Credit Card,109.98,5.5,104.48,85.85,82.17
+ORD-1135,2024-08-09,2024,8,Aug,Small Business,North,Electronics,Wireless Ergonomic Mouse,1,29.99,0.1,25.28,Bank Transfer,29.99,3.0,26.99,1.71,6.34
+ORD-1060,2024-08-11,2024,8,Aug,Small Business,West,Furniture,LED Monitor Desk Lamp,2,34.99,0.15,13.39,PayPal,69.98,10.5,59.48,46.09,77.49
+ORD-1071,2024-08-11,2024,8,Aug,Consumer,North,Apparel,Breathable Running Shoes,4,79.99,0.2,11.7,Bank Transfer,319.96,63.99,255.97,244.27,95.43
+ORD-1088,2024-08-12,2024,8,Aug,Corporate,West,Office Supplies,Heavy Duty Desktop Stapler,1,12.49,0.1,22.48,Crypto,12.49,1.25,11.24,-11.24,-99.98
+ORD-1095,2024-08-12,2024,8,Aug,Small Business,South,Furniture,LED Monitor Desk Lamp,4,34.99,0.15,8.03,PayPal,139.96,20.99,118.97,110.94,93.25
+ORD-1189,2024-08-15,2024,8,Aug,Corporate,West,Office Supplies,Heavy Duty Desktop Stapler,3,12.49,0.2,8.43,Bank Transfer,37.47,7.49,29.98,21.55,71.88
+ORD-1055,2024-08-18,2024,8,Aug,Corporate,West,Furniture,Under-desk Cable Tray,1,19.99,0.05,25.99,PayPal,19.99,1.0,18.99,-7.0,-36.86
+ORD-1085,2024-08-18,2024,8,Aug,Consumer,East,Electronics,USB-C Multi-port Docking Station,3,59.99,0.15,12.27,Bank Transfer,179.97,27.0,152.97,140.7,91.98
+ORD-1192,2024-08-19,2024,8,Aug,Small Business,East,Furniture,Ergonomic Mesh Office Chair,1,249.99,0.15,29.92,Bank Transfer,249.99,37.5,212.49,182.57,85.92
+ORD-1007,2024-08-20,2024,8,Aug,Corporate,South,Apparel,Breathable Running Shoes,2,79.99,0.1,9.06,Bank Transfer,159.98,16.0,143.98,134.92,93.71
+ORD-1014,2024-08-20,2024,8,Aug,Consumer,North,Apparel,Tech Fleece Hoodie,1,54.99,0.1,29.29,Bank Transfer,54.99,5.5,49.49,20.2,40.82
+ORD-1062,2024-08-24,2024,8,Aug,Consumer,West,Apparel,Tech Fleece Hoodie,1,54.99,0.1,14.47,Bank Transfer,54.99,5.5,49.49,35.02,70.76
+ORD-1154,2024-08-24,2024,8,Aug,Corporate,North,Electronics,UltraWide 34-inch Monitor,2,449.99,0.0,14.21,Credit Card,899.98,0.0,899.98,885.77,98.42
+ORD-1072,2024-08-25,2024,8,Aug,Corporate,East,Apparel,Tech Fleece Hoodie,2,54.99,0.15,13.4,PayPal,109.98,16.5,93.48,80.08,85.67
+ORD-1152,2024-08-25,2024,8,Aug,Small Business,East,Furniture,Under-desk Cable Tray,3,19.99,0.2,16.21,Bank Transfer,59.97,11.99,47.98,31.77,66.21
+ORD-1166,2024-08-28,2024,8,Aug,Small Business,West,Furniture,LED Monitor Desk Lamp,5,34.99,0.05,14.19,Crypto,174.95,8.75,166.2,152.01,91.46
+ORD-1028,2024-09-01,2024,9,Sep,Small Business,North,Electronics,Noise-Canceling Headphones,2,199.99,0.2,8.93,PayPal,399.98,80.0,319.98,311.05,97.21
+ORD-1080,2024-09-02,2024,9,Sep,Corporate,West,Office Supplies,Dry Erase Whiteboard 36x24,2,49.99,0.05,29.13,Credit Card,99.98,5.0,94.98,65.85,69.33
+ORD-1100,2024-09-04,2024,9,Sep,Corporate,West,Apparel,Waterproof Backpack 25L,1,64.99,0.2,24.06,Bank Transfer,64.99,13.0,51.99,27.93,53.72
+ORD-1081,2024-09-08,2024,9,Sep,Small Business,East,Electronics,USB-C Multi-port Docking Station,1,59.99,0.0,8.78,Credit Card,59.99,0.0,59.99,51.21,85.36
+ORD-1052,2024-09-10,2024,9,Sep,Consumer,North,Furniture,Under-desk Cable Tray,1,19.99,0.05,21.39,Crypto,19.99,1.0,18.99,-2.4,-12.64
+ORD-1167,2024-09-14,2024,9,Sep,Small Business,South,Office Supplies,Dry Erase Whiteboard 36x24,2,49.99,0.05,25.41,Bank Transfer,99.98,5.0,94.98,69.57,73.25
+ORD-1132,2024-09-15,2024,9,Sep,Consumer,South,Office Supplies,Dry Erase Whiteboard 36x24,2,49.99,0.0,24.82,Crypto,99.98,0.0,99.98,75.16,75.18
+ORD-1099,2024-09-16,2024,9,Sep,Corporate,West,Apparel,Breathable Running Shoes,1,79.99,0.0,12.06,PayPal,79.99,0.0,79.99,67.93,84.92
+ORD-1129,2024-09-19,2024,9,Sep,Small Business,North,Apparel,Breathable Running Shoes,2,79.99,0.15,17.59,Bank Transfer,159.98,24.0,135.98,118.39,87.06
+ORD-1094,2024-09-22,2024,9,Sep,Consumer,South,Electronics,Mechanical RGB Keyboard,1,89.99,0.15,20.63,Bank Transfer,89.99,13.5,76.49,55.86,73.03
+ORD-1103,2024-09-26,2024,9,Sep,Corporate,South,Apparel,Tech Fleece Hoodie,5,54.99,0.0,23.05,Credit Card,274.95,0.0,274.95,251.9,91.62
+ORD-1054,2024-09-28,2024,9,Sep,Corporate,West,Apparel,Waterproof Backpack 25L,10,64.99,0.2,12.92,Crypto,649.9,129.98,519.92,507.0,97.52
+ORD-1017,2024-09-29,2024,9,Sep,Small Business,South,Apparel,Tech Fleece Hoodie,3,54.99,0.05,21.48,Bank Transfer,164.97,8.25,156.72,135.24,86.29
+ORD-1032,2024-10-02,2024,10,Oct,Corporate,North,Electronics,Wireless Ergonomic Mouse,1,29.99,0.1,8.3,PayPal,29.99,3.0,26.99,18.69,69.25
+ORD-1018,2024-10-03,2024,10,Oct,Corporate,East,Apparel,Tech Fleece Hoodie,3,54.99,0.05,22.81,Crypto,164.97,8.25,156.72,133.91,85.45
+ORD-1193,2024-10-04,2024,10,Oct,Small Business,South,Electronics,Noise-Canceling Headphones,1,199.99,0.1,26.27,Bank Transfer,199.99,20.0,179.99,153.72,85.4
+ORD-1177,2024-10-05,2024,10,Oct,Corporate,West,Electronics,Noise-Canceling Headphones,2,199.99,0.2,18.84,Credit Card,399.98,80.0,319.98,301.14,94.11
+ORD-1048,2024-10-07,2024,10,Oct,Corporate,East,Office Supplies,Dry Erase Whiteboard 36x24,4,49.99,0.1,12.16,Crypto,199.96,20.0,179.96,167.8,93.24
+ORD-1076,2024-10-08,2024,10,Oct,Corporate,South,Office Supplies,Dry Erase Whiteboard 36x24,1,49.99,0.15,11.76,Credit Card,49.99,7.5,42.49,30.73,72.32
+ORD-1096,2024-10-09,2024,10,Oct,Consumer,West,Office Supplies,Premium Leather Notebook,2,14.99,0.05,29.8,Credit Card,29.98,1.5,28.48,-1.32,-4.63
+ORD-1079,2024-10-10,2024,10,Oct,Corporate,North,Electronics,Wireless Ergonomic Mouse,1,29.99,0.05,20.94,Credit Card,29.99,1.5,28.49,7.55,26.5
+ORD-1082,2024-10-12,2024,10,Oct,Small Business,South,Furniture,Ergonomic Mesh Office Chair,3,249.99,0.2,19.89,Crypto,749.97,149.99,599.98,580.09,96.68
+ORD-1117,2024-10-12,2024,10,Oct,Small Business,North,Furniture,Under-desk Cable Tray,1,19.99,0.15,5.34,Crypto,19.99,3.0,16.99,11.65,68.57
+ORD-1159,2024-10-12,2024,10,Oct,Small Business,South,Office Supplies,Premium Leather Notebook,3,14.99,0.1,11.29,Bank Transfer,44.97,4.5,40.47,29.18,72.1
+ORD-1161,2024-10-13,2024,10,Oct,Small Business,North,Electronics,UltraWide 34-inch Monitor,1,449.99,0.1,25.32,Crypto,449.99,45.0,404.99,379.67,93.75
+ORD-1101,2024-10-19,2024,10,Oct,Small Business,West,Furniture,Electric Height Adjustable Desk,1,399.99,0.15,6.08,Crypto,399.99,60.0,339.99,333.91,98.21
+ORD-1067,2024-10-21,2024,10,Oct,Small Business,South,Electronics,UltraWide 34-inch Monitor,3,449.99,0.15,14.91,Credit Card,1349.97,202.5,1147.47,1132.56,98.7
+ORD-1090,2024-10-22,2024,10,Oct,Small Business,West,Electronics,UltraWide 34-inch Monitor,1,449.99,0.05,16.75,Bank Transfer,449.99,22.5,427.49,410.74,96.08
+ORD-1155,2024-10-24,2024,10,Oct,Small Business,South,Apparel,Breathable Running Shoes,2,79.99,0.0,16.23,Bank Transfer,159.98,0.0,159.98,143.75,89.85
+ORD-1118,2024-10-26,2024,10,Oct,Consumer,West,Office Supplies,Heavy Duty Desktop Stapler,1,12.49,0.1,7.7,Credit Card,12.49,1.25,11.24,3.54,31.5
+ORD-1003,2024-10-28,2024,10,Oct,Consumer,West,Furniture,Under-desk Cable Tray,1,19.99,0.0,23.96,Bank Transfer,19.99,0.0,19.99,-3.97,-19.86
+ORD-1175,2024-11-01,2024,11,Nov,Small Business,South,Electronics,USB-C Multi-port Docking Station,2,59.99,0.2,19.37,Bank Transfer,119.98,24.0,95.98,76.61,79.82
+ORD-1066,2024-11-06,2024,11,Nov,Consumer,East,Office Supplies,Gel Ink Pens 12-pack,2,9.99,0.0,24.43,Credit Card,19.98,0.0,19.98,-4.45,-22.27
+ORD-1113,2024-11-06,2024,11,Nov,Small Business,East,Office Supplies,Gel Ink Pens 12-pack,4,9.99,0.05,20.91,PayPal,39.96,2.0,37.96,17.05,44.92
+ORD-1176,2024-11-10,2024,11,Nov,Small Business,North,Apparel,Tech Fleece Hoodie,1,54.99,0.2,15.4,Bank Transfer,54.99,11.0,43.99,28.59,64.99
+ORD-1186,2024-11-10,2024,11,Nov,Consumer,North,Electronics,UltraWide 34-inch Monitor,10,449.99,0.1,20.98,Crypto,4499.9,449.99,4049.91,4028.93,99.48
+ORD-1122,2024-11-11,2024,11,Nov,Corporate,South,Electronics,USB-C Multi-port Docking Station,2,59.99,0.1,5.81,Crypto,119.98,12.0,107.98,102.17,94.62
+ORD-1142,2024-11-12,2024,11,Nov,Small Business,West,Furniture,Electric Height Adjustable Desk,1,399.99,0.0,11.79,Crypto,399.99,0.0,399.99,388.2,97.05
+ORD-1039,2024-11-13,2024,11,Nov,Consumer,West,Office Supplies,Dry Erase Whiteboard 36x24,3,49.99,0.05,26.61,Credit Card,149.97,7.5,142.47,115.86,81.32
+ORD-1061,2024-11-14,2024,11,Nov,Small Business,North,Apparel,Tech Fleece Hoodie,2,54.99,0.15,19.79,Credit Card,109.98,16.5,93.48,73.69,78.83
+ORD-1106,2024-11-20,2024,11,Nov,Small Business,East,Apparel,Tech Fleece Hoodie,3,54.99,0.0,16.08,Credit Card,164.97,0.0,164.97,148.89,90.25
+ORD-1008,2024-11-21,2024,11,Nov,Corporate,East,Electronics,Noise-Canceling Headphones,1,199.99,0.05,9.08,PayPal,199.99,10.0,189.99,180.91,95.22
+ORD-1070,2024-11-21,2024,11,Nov,Corporate,South,Apparel,Breathable Running Shoes,4,79.99,0.15,22.67,Bank Transfer,319.96,47.99,271.97,249.3,91.66
+ORD-1091,2024-11-21,2024,11,Nov,Corporate,East,Furniture,Under-desk Cable Tray,4,19.99,0.0,16.74,Bank Transfer,79.96,0.0,79.96,63.22,79.06
+ORD-1199,2024-11-21,2024,11,Nov,Corporate,North,Office Supplies,Gel Ink Pens 12-pack,8,9.99,0.1,8.12,PayPal,79.92,7.99,71.93,63.81,88.71
+ORD-1109,2024-11-22,2024,11,Nov,Corporate,East,Furniture,Under-desk Cable Tray,1,19.99,0.1,21.66,PayPal,19.99,2.0,17.99,-3.67,-20.39
+ORD-1188,2024-11-26,2024,11,Nov,Consumer,South,Electronics,Mechanical RGB Keyboard,1,89.99,0.15,28.73,Crypto,89.99,13.5,76.49,47.76,62.44
+ORD-1119,2024-11-27,2024,11,Nov,Corporate,West,Office Supplies,Gel Ink Pens 12-pack,1,9.99,0.15,27.72,Credit Card,9.99,1.5,8.49,-19.23,-226.44
+ORD-1102,2024-11-29,2024,11,Nov,Consumer,East,Apparel,Waterproof Backpack 25L,10,64.99,0.15,29.11,Credit Card,649.9,97.48,552.42,523.3,94.73
+ORD-1182,2024-12-01,2024,12,Dec,Corporate,West,Office Supplies,Premium Leather Notebook,1,14.99,0.0,24.97,Crypto,14.99,0.0,14.99,-9.98,-66.58
+ORD-1030,2024-12-02,2024,12,Dec,Corporate,South,Electronics,USB-C Multi-port Docking Station,2,59.99,0.2,12.9,Bank Transfer,119.98,24.0,95.98,83.08,86.56
+ORD-1112,2024-12-03,2024,12,Dec,Small Business,North,Office Supplies,Premium Leather Notebook,1,14.99,0.0,19.14,Crypto,14.99,0.0,14.99,-4.15,-27.69
+ORD-1200,2024-12-03,2024,12,Dec,Small Business,North,Furniture,Electric Height Adjustable Desk,2,399.99,0.2,13.43,Credit Card,799.98,160.0,639.98,626.55,97.9
+ORD-1127,2024-12-04,2024,12,Dec,Consumer,East,Furniture,Ergonomic Mesh Office Chair,4,249.99,0.05,5.36,Credit Card,999.96,50.0,949.96,944.6,99.44
+ORD-1160,2024-12-05,2024,12,Dec,Small Business,West,Electronics,Noise-Canceling Headphones,1,199.99,0.1,12.75,PayPal,199.99,20.0,179.99,167.24,92.92
+ORD-1046,2024-12-06,2024,12,Dec,Consumer,East,Apparel,Tech Fleece Hoodie,5,54.99,0.2,12.84,Bank Transfer,274.95,54.99,219.96,207.12,94.16
+ORD-1134,2024-12-06,2024,12,Dec,Corporate,North,Apparel,Breathable Running Shoes,1,79.99,0.05,22.16,Credit Card,79.99,4.0,75.99,53.83,70.84
+ORD-1144,2024-12-07,2024,12,Dec,Small Business,North,Apparel,Waterproof Backpack 25L,1,64.99,0.05,14.87,Credit Card,64.99,3.25,61.74,46.87,75.92
+ORD-1021,2024-12-08,2024,12,Dec,Small Business,West,Furniture,LED Monitor Desk Lamp,2,34.99,0.2,8.3,PayPal,69.98,14.0,55.98,47.68,85.17
+ORD-1121,2024-12-09,2024,12,Dec,Small Business,South,Apparel,Breathable Running Shoes,5,79.99,0.2,15.47,Crypto,399.95,79.99,319.96,304.49,95.17
+ORD-1049,2024-12-11,2024,12,Dec,Small Business,South,Apparel,Breathable Running Shoes,1,79.99,0.15,24.83,Credit Card,79.99,12.0,67.99,43.16,63.48
+ORD-1165,2024-12-12,2024,12,Dec,Small Business,West,Apparel,Breathable Running Shoes,3,79.99,0.15,20.25,PayPal,239.97,36.0,203.97,183.72,90.07
+ORD-1012,2024-12-14,2024,12,Dec,Small Business,West,Furniture,Electric Height Adjustable Desk,2,399.99,0.0,14.61,Bank Transfer,799.98,0.0,799.98,785.37,98.17
+ORD-1013,2024-12-15,2024,12,Dec,Corporate,North,Electronics,Wireless Ergonomic Mouse,4,29.99,0.1,24.2,Bank Transfer,119.96,12.0,107.96,83.76,77.59
+ORD-1086,2024-12-17,2024,12,Dec,Small Business,South,Apparel,Tech Fleece Hoodie,1,54.99,0.1,24.69,Crypto,54.99,5.5,49.49,24.8,50.11
+ORD-1053,2024-12-22,2024,12,Dec,Consumer,West,Furniture,Electric Height Adjustable Desk,2,399.99,0.0,18.93,PayPal,799.98,0.0,799.98,781.05,97.63
+ORD-1068,2024-12-22,2024,12,Dec,Small Business,North,Furniture,Ergonomic Mesh Office Chair,3,249.99,0.2,25.13,Bank Transfer,749.97,149.99,599.98,574.85,95.81
+ORD-1006,2024-12-26,2024,12,Dec,Consumer,South,Office Supplies,Gel Ink Pens 12-pack,1,9.99,0.05,24.32,Credit Card,9.99,0.5,9.49,-14.83,-156.26
+ORD-1020,2024-12-28,2024,12,Dec,Consumer,East,Electronics,Wireless Ergonomic Mouse,2,29.99,0.05,6.68,Credit Card,59.98,3.0,56.98,50.3,88.28
+ORD-1157,2024-12-28,2024,12,Dec,Small Business,South,Electronics,Mechanical RGB Keyboard,2,89.99,0.15,18.09,Bank Transfer,179.98,27.0,152.98,134.89,88.18
